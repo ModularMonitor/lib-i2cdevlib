@@ -850,3 +850,5 @@ typedef MPU6050_Base MPU6050;
 #endif
 
 #endif /* _MPU6050_H_ */
+
+#include "MPU6050.ipp"
